@@ -8,7 +8,7 @@ I'm not going to turn this into a proper extension as that sounds like a lot of 
 
 To install this, you can:
 1) Download the contents of this repo: [here](https://github.com/cardboards-box/lnt-ext/archive/refs/heads/main.zip) or click the "Code" drop down on the main page and click "Download Zip".
-2) Unzip the code someone on your computer (I'd suggest putting it in a folder you create called "lnt-ext" or something)
+2) Unzip the code somewhere on your computer (I'd suggest putting it in a folder you create called "lnt-ext" or something)
 3) On a chromium based browser (chrome, opera, edge, etc) go to one of the following (copy and paste into your browser):
     - Opera: `opera://extensions`
     - Chrome: `chrome://extensions`
