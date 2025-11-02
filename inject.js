@@ -19,7 +19,9 @@ function changeAllUrls() {
     const links = document.querySelectorAll('a[href]');
     let count = 0;
     links.forEach(link => {
-        if (!link.href.includes('lightnovelstranslations.com')) return;
+        if (!link.href.includes('lightnovelstranslations.com') ||
+            link.href.includes(PARAM_NAME)) 
+            return;
         link.href = setParameter(link.href);
         count++;
     });
